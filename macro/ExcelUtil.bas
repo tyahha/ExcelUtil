@@ -1,3 +1,4 @@
+Attribute VB_Name = "ExcelUtil"
 Const Separator As String = "|"
 Const HeaderSufix As String = "h"
 
